@@ -1,5 +1,4 @@
-package question4;
-import java.util.Scanner;
+kkk
 
 public class NumberChecker {
 
@@ -20,5 +19,6 @@ public class NumberChecker {
 
 
 	}
+
 
 
