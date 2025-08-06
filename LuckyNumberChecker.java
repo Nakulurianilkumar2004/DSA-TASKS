@@ -1,5 +1,4 @@
-package question2;
-import java.util.Scanner;
+
 
 public class LuckyNumberChecker {
 
@@ -34,5 +33,6 @@ public class LuckyNumberChecker {
     }
 
 	}
+
 
 
