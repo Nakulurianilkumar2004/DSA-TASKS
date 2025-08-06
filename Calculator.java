@@ -1,5 +1,4 @@
-package question1;
-import java.util.Scanner;
+
 
 public class Calculator {
 
@@ -49,5 +48,6 @@ public class Calculator {
 	    }
 
 	}
+
 
 
